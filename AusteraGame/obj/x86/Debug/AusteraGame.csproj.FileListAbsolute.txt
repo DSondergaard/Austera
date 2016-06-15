@@ -1,0 +1,6 @@
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\AusteraSolution\AusteraGame\bin\Debug\AusteraGame.exe
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\AusteraSolution\AusteraGame\bin\Debug\AusteraGame.pdb
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\AusteraSolution\AusteraGame\obj\x86\Debug\AusteraGame.Properties.Resources.resources
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\AusteraSolution\AusteraGame\obj\x86\Debug\AusteraGame.csproj.GenerateResource.Cache
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\AusteraSolution\AusteraGame\obj\x86\Debug\AusteraGame.exe
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\AusteraSolution\AusteraGame\obj\x86\Debug\AusteraGame.pdb
