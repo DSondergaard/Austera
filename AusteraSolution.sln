@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AusteraGame", "AusteraGame\AusteraGame.csproj", "{F7403D76-2587-4A45-AA14-E9CB861524C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TileGame", "TileGame\TileGame.csproj", "{6C8CE07D-4FE2-4709-9D44-A440A7222D6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{4743DF72-4026-49E7-8DCB-EB91C4CFA02D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,6 +17,14 @@ Global
 		{F7403D76-2587-4A45-AA14-E9CB861524C8}.Debug|x86.Build.0 = Debug|x86
 		{F7403D76-2587-4A45-AA14-E9CB861524C8}.Release|x86.ActiveCfg = Release|x86
 		{F7403D76-2587-4A45-AA14-E9CB861524C8}.Release|x86.Build.0 = Release|x86
+		{6C8CE07D-4FE2-4709-9D44-A440A7222D6F}.Debug|x86.ActiveCfg = Debug|x86
+		{6C8CE07D-4FE2-4709-9D44-A440A7222D6F}.Debug|x86.Build.0 = Debug|x86
+		{6C8CE07D-4FE2-4709-9D44-A440A7222D6F}.Release|x86.ActiveCfg = Release|x86
+		{6C8CE07D-4FE2-4709-9D44-A440A7222D6F}.Release|x86.Build.0 = Release|x86
+		{4743DF72-4026-49E7-8DCB-EB91C4CFA02D}.Debug|x86.ActiveCfg = Debug|x86
+		{4743DF72-4026-49E7-8DCB-EB91C4CFA02D}.Debug|x86.Build.0 = Debug|x86
+		{4743DF72-4026-49E7-8DCB-EB91C4CFA02D}.Release|x86.ActiveCfg = Release|x86
+		{4743DF72-4026-49E7-8DCB-EB91C4CFA02D}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,8 @@
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\TileGame\bin\Debug\TileGame.exe
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\TileGame\bin\Debug\TileGame.pdb
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\TileGame\obj\x86\Debug\TileGame.MainWindow.resources
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\TileGame\obj\x86\Debug\TileGame.Properties.Resources.resources
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\TileGame\obj\x86\Debug\TileGame.csproj.GenerateResource.Cache
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\TileGame\obj\x86\Debug\TileGame.exe
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\TileGame\obj\x86\Debug\TileGame.pdb
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\TileGame\obj\x86\Debug\TileGame.Fight.resources

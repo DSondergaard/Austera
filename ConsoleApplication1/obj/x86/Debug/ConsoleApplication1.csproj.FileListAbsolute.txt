@@ -1,0 +1,4 @@
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

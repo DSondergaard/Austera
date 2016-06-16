@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Windows.Forms;
+using System.Drawing;
 
 namespace AusteraGame
 {
@@ -13,6 +14,9 @@ namespace AusteraGame
         public Tile TileLeft { get; set; }
         public Tile TileRight { get; set; }
         public int Level { get; set; }
+
+        public Image OriginalBackground { get; set; }
+        private Image Icon;
 
 
         public void MakeLeftRelation(Tile tile)
@@ -25,6 +29,29 @@ namespace AusteraGame
         {
             TileUp = tile;
             tile.TileDown = this;
+        }
+
+        public void SetIcon(Image icon)
+        {
+            if(icon != null)
+            {
+                Icon = icon;
+                var target = new Bitmap(this.OriginalBackground);
+                var graphics = Graphics.FromImage(target);            
+                Bitmap b = new Bitmap(icon);
+                b.MakeTransparent(Color.White);
+                graphics.DrawImage(b, 0, 0);
+                this.BackgroundImage = target;
+            }
+            else
+                this.BackgroundImage = OriginalBackground;
+
+        }
+
+        public void SetBackground(Image background)
+        {
+            OriginalBackground = background;
+            SetIcon(Icon);
         }
     }
 }

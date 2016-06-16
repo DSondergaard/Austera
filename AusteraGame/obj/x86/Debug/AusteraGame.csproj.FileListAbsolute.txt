@@ -11,3 +11,4 @@ C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\AusteraGame\bin\Debug\Aus
 C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\AusteraGame\obj\x86\Debug\AusteraGame.Form1.resources
 C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\AusteraGame\obj\x86\Debug\AusteraGame.Properties.Resources.resources
 C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\AusteraGame\obj\x86\Debug\AusteraGame.csproj.GenerateResource.Cache
+C:\Users\ds\Desktop\My Stuff\Workspace\FromGit\Austera\AusteraGame\obj\x86\Debug\AusteraGame.csprojResolveAssemblyReference.cache

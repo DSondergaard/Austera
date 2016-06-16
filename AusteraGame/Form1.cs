@@ -49,7 +49,7 @@ namespace AusteraGame
                     Tile t = new Tile();
                     t.Level = 1;
                     t.Name = String.Format("({0},{1})", x, y);
-                    t.BackgroundImage = ImageController.Instance.GetRandomBackgroundImage();
+                    t.SetBackground(ImageController.Instance.GetRandomBackgroundImage());
                     t.BorderStyle = BorderStyle.FixedSingle;
                     t.BackgroundImageLayout = ImageLayout.Zoom;
                     t.SizeMode = PictureBoxSizeMode.Zoom;
@@ -155,6 +155,20 @@ namespace AusteraGame
                 case Keys.S:
                 case Keys.Down: MoveTo(GetCoordsFromTile(currentTile.TileDown)); break;
             }
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Random random = new Random();
+            int x = random.Next(10);
+            int y = random.Next(10);
+            
+            string tileName = String.Format("({0},{1})", x, y);
+            Tile t = (Tile)panMap.Controls.Find(tileName, true)[0];
+            DirectoryInfo dir = new DirectoryInfo(Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName + @"\Pictures");
+            t.SetIcon(Image.FromFile(dir.FullName + @"\IconHouse.jpg"));
+
+            button1.Enabled = false;
         }
         
     }
